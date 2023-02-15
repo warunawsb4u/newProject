@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>NetXperts Technologies Releases Nexus Repository</name>
-	      <url>http://20.10.42.144:8081/repository/myProject-Release/</url>
+	      <url>http://20.14.162.74:8081/repository/maven_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>NetXperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://20.10.42.144:8081/repository/myProject-snapshot/</url>
+	      <url>http://20.14.162.74:8081/repository/maven_snapshot/</url>
 	    </snapshotRepository> 
 	    
 	</distributionManagement>
